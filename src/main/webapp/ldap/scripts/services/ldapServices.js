@@ -1,0 +1,1 @@
+var ldapServices=angular.module('ldapServices',[]);

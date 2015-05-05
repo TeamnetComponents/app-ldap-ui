@@ -1,0 +1,1 @@
+var ldapControllers=angular.module('ldapControllers',[]);

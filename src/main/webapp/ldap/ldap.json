@@ -1,0 +1,15 @@
+{
+    "moduleName": "ldap",
+    "resources":[
+        "ldap/styles/ldap.css",
+        "ldap/scripts/ldapModule.js",
+        "ldap/scripts/controllers/ldapControllers.js",
+        "ldap/scripts/controllers/ldapMainController.js",
+        "ldap/scripts/services/ldapServices.js",
+        "ldap/scripts/services/ldapMainService.js",
+        "ldap/scripts/directives/ldapDirectives.js",
+        "ldap/scripts/directives/ldapMainDirective.js",
+        "ldap/scripts/constants/ldapConstants.js",
+        "ldap/scripts/constants/LDAP.js"
+    ]
+}

@@ -1,0 +1,3 @@
+ldapConstants.constant('LDAP', {
+
+});

@@ -1,0 +1,1 @@
+var ldapConstants=angular.module('ldapConstants',[]);

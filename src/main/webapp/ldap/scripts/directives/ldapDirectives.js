@@ -1,0 +1,1 @@
+var ldapDirectives=angular.module('ldapDirectives',[]);
